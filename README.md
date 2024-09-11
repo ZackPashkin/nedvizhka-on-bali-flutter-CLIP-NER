@@ -5,3 +5,6 @@ https://nedvizhkabali.ml
 
 Flutter App:
 https://github.com/ZackPashkin/nedvizhkabali
+
+Notebook:
+https://github.com/ZackPashkin/nedvizhka-on-bali-flutter-CLIP-NER/blob/main/TelegramSummaryPropertyOnBaliBack.ipynb
